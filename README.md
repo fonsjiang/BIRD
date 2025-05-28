@@ -1,8 +1,8 @@
 # 🧠 BIRD: Brain-Initiated Person Re-identification
 
 <p align="center">
-  <a href="https://ieeexplore.ieee.org/"> <img alt="TPAMI" src="https://img.shields.io/badge/IEEE-TPAMI-blue"> </a>
-  <a href="https://github.com/EEG-FGBIO/BIRD"> <img alt="License" src="https://img.shields.io/github/license/EEG-FGBIO/BIRD"> </a>
+  <a href="https://arxiv.org/"> <img alt="Preprint" src="https://arxiv.org/abs/2408.00096"> </a>
+  <a href="https://github.com/EEG-FGBIO/BIRD/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/EEG-FGBIO/BIRD"> </a>
   <a href="https://github.com/EEG-FGBIO/BIRD/issues"> <img alt="Issues" src="https://img.shields.io/github/issues/EEG-FGBIO/BIRD"> </a>
   <a href="https://github.com/EEG-FGBIO/BIRD/stargazers"> <img alt="Stars" src="https://img.shields.io/github/stars/EEG-FGBIO/BIRD?style=social"> </a>
 </p>
@@ -21,7 +21,7 @@
   <img src="BIRD.png" width="90%">
 </p>
 
-> ✨ Our [TPAMI paper](https://ieeexplore.ieee.org/) demonstrates for the first time that brain signals can decode fine-grained identity information, opening a novel direction for **neural decoding and person Re-ID**.
+> ✨ Our [preprint paper](https://arxiv.org/abs/2408.00096) demonstrates for the first time that brain signals can decode fine-grained identity information, opening a novel direction for **neural decoding and person Re-ID**.
 
 ---
 
@@ -54,11 +54,11 @@ We are preparing to **release** the following components:
 If you use this repository or datasets, please cite:
 
 ```bibtex
-@article{jiang2025bird,
+@article{jiang2024bird,
   title={BIRD: Brain-Initiated Person Re-identification},
   author={Jiang, Fanzhi and Yang, Su and Liu, Liwen and Zhang, Jiaxiang and Xie, Xianghua},
-  journal={IEEE Transactions on Pattern Analysis and Machine Intelligence},
-  year={2025}
+  journal={arXiv preprint arXiv:2408.00096},
+  year={2024}
 }
 ```
 
@@ -67,7 +67,7 @@ If you use this repository or datasets, please cite:
 ## 📹 Demo: Retrieval via EEG
 
 <p align="center">
-  <img src="docs/images/retrieval_demo.gif" width="80%">
+  <img src="retrieval.png" width="90%">
 </p>
 
 ---
@@ -75,7 +75,7 @@ If you use this repository or datasets, please cite:
 ## 🧳 EEG Signal Visualization
 
 <p align="center">
-  <img src="docs/images/regions.png" width="85%">
+  <img src="regions.png" width="90%">
 </p>
 
 ---
