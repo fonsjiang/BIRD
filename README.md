@@ -15,7 +15,7 @@
 
 ## 📃 Overview
 
-**BIRD** (Brain-Initiated Re-ID) is the first open-source framework and benchmark for EEG-based fine-grained cross-modal person re-identification. Unlike traditional visual or text-based Re-ID methods, BIRD enables **privacy-preserving** and **real-time** retrieval using non-invasive brain signals (EEG), aligning them with pedestrian images through contrastive learning and mutual information regularization.
+**BIRD** (Brain-Initiated Person Re-ID) is the first open-source framework and benchmark for EEG-based fine-grained cross-modal person re-identification. Unlike traditional visual or text-based Re-ID methods, BIRD enables **privacy-preserving** and **real-time** retrieval using non-invasive brain signals (EEG), aligning them with pedestrian images through contrastive learning and mutual information regularization.
 
 <p align="center">
   <img src="BIRD.png" width="90%">
@@ -29,10 +29,10 @@
 
 We are preparing to **release** the following components:
 
-* [x] 📊 **Three large-scale datasets**: CUHK-PEDES-EEG, RSTPReid-EEG, ICFG-PEDES-EEG (tri-modal: EEG + Image + Text)
+* [x] 📊 **Three benchmarks**: CUHK-PEDES-EEG, RSTPReid-EEG, ICFG-PEDES-EEG (tri-modal: EEG + Image + Text)
 * [x] 🧐 **BIRD Codebase**: EEG preprocessing, image encoders, contrastive fusion models
-* [x] 📊 **Visualization tools**: t-SNE plots, connectivity maps, topomaps
-* [x] ⚖️ **Evaluation metrics**: Rank\@K, MI estimates, rhythm/region sensitivity
+* [x] 📊 **Visualization Tools**: t-SNE plots, connectivity maps, topomaps
+* [x] ⚖️ **Evaluation Metrics**: Rank\@K, MI estimates, rhythm/region sensitivity
 * [ ] 🌎 Full documentation and scripts for reproducible experiments
 
 > Please **star** the repo ⭐ and stay tuned! Official release will be announced here soon!
@@ -58,7 +58,7 @@ If you use this repository or datasets, please cite:
   title={BIRD: Brain-Initiated Person Re-identification},
   author={Jiang, Fanzhi and Yang, Su and Liu, Liwen and Zhang, Jiaxiang and Xie, Xianghua},
   journal={arXiv preprint arXiv:2408.00096},
-  year={2024}
+  year={2025}
 }
 ```
 ## 📹 Quantitative analysis of different brain regions
