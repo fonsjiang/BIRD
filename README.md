@@ -1,14 +1,14 @@
 # 🧠 BIRD: Brain-Initiated Person Re-identification
 
 <p align="center">
-  <img src="docs/images/bird.png" width="90%">
-</p>
-
-<p align="center">
   <a href="https://ieeexplore.ieee.org/"> <img alt="TPAMI" src="https://img.shields.io/badge/IEEE-TPAMI-blue"> </a>
   <a href="https://github.com/EEG-FGBIO/BIRD"> <img alt="License" src="https://img.shields.io/github/license/EEG-FGBIO/BIRD"> </a>
   <a href="https://github.com/EEG-FGBIO/BIRD/issues"> <img alt="Issues" src="https://img.shields.io/github/issues/EEG-FGBIO/BIRD"> </a>
   <a href="https://github.com/EEG-FGBIO/BIRD/stargazers"> <img alt="Stars" src="https://img.shields.io/github/stars/EEG-FGBIO/BIRD?style=social"> </a>
+</p>
+
+<p align="center">
+  <img src="EEG_person_REID.png" width="90%">
 </p>
 
 ---
@@ -16,6 +16,10 @@
 ## 📃 Overview
 
 **BIRD** (Brain-Initiated Re-ID) is the first open-source framework and benchmark for EEG-based fine-grained cross-modal person re-identification. Unlike traditional visual or text-based Re-ID methods, BIRD enables **privacy-preserving** and **real-time** retrieval using non-invasive brain signals (EEG), aligning them with pedestrian images through contrastive learning and mutual information regularization.
+
+<p align="center">
+  <img src="BIRD.png" width="90%">
+</p>
 
 > ✨ Our [TPAMI paper](https://ieeexplore.ieee.org/) demonstrates for the first time that brain signals can decode fine-grained identity information, opening a novel direction for **neural decoding and person Re-ID**.
 
