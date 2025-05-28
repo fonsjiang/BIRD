@@ -1,7 +1,7 @@
 # 🧠 BIRD: Brain-Initiated Person Re-identification
 
 <p align="center">
-  <a href="https://arxiv.org/"> <img alt="Preprint" src="https://arxiv.org/abs/2408.00096"> </a>
+  <a href="https://arxiv.org/abs/2408.00096"> <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.00096-b31b1b"> </a>
   <a href="https://github.com/EEG-FGBIO/BIRD/blob/main/LICENSE"> <img alt="License" src="https://img.shields.io/github/license/EEG-FGBIO/BIRD"> </a>
   <a href="https://github.com/EEG-FGBIO/BIRD/issues"> <img alt="Issues" src="https://img.shields.io/github/issues/EEG-FGBIO/BIRD"> </a>
   <a href="https://github.com/EEG-FGBIO/BIRD/stargazers"> <img alt="Stars" src="https://img.shields.io/github/stars/EEG-FGBIO/BIRD?style=social"> </a>
@@ -61,10 +61,16 @@ If you use this repository or datasets, please cite:
   year={2024}
 }
 ```
+## 📹 Quantitative analysis of different brain regions
+
+<p align="center">
+  <img src="Results.png" width="90%">
+</p>
+
 
 ---
 
-## 📹 Demo: Retrieval via EEG
+## 📹 Qualitative results on the Brain-CMPR benchmark
 
 <p align="center">
   <img src="Retrieval.png" width="90%">
@@ -72,7 +78,7 @@ If you use this repository or datasets, please cite:
 
 ---
 
-## 🧳 EEG Signal Visualization
+## 🧳 Topographical maps of EEG voltage
 
 <p align="center">
   <img src="Regions.png" width="90%">
@@ -80,7 +86,7 @@ If you use this repository or datasets, please cite:
 
 ---
 
-## 🚀 Highlights from Our TPAMI Paper
+## 🚀 Highlights from Our Paper
 
 * 🔎 **First EEG-based fine-grained Re-ID system**
 * 🔄 **Contrastive cross-modal training** for EEG-visual alignment
@@ -106,6 +112,3 @@ Thanks to all collaborators and participants who contributed to EEG data collect
 
 ---
 
-<p align="center">
-  🎉 BIRD will be open-sourced soon. Please stay tuned! 🚀
-</p>
