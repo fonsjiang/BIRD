@@ -8,7 +8,7 @@
 </p>
 
 <p align="center">
-  <img src="EEG_person_REID.png" width="90%">
+  <img src="EEG_person_ReID.png" width="90%">
 </p>
 
 ---
