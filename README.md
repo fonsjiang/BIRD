@@ -67,7 +67,7 @@ If you use this repository or datasets, please cite:
 ## 📹 Demo: Retrieval via EEG
 
 <p align="center">
-  <img src="retrieval.png" width="90%">
+  <img src="Retrieval.png" width="90%">
 </p>
 
 ---
@@ -75,7 +75,7 @@ If you use this repository or datasets, please cite:
 ## 🧳 EEG Signal Visualization
 
 <p align="center">
-  <img src="regions.png" width="90%">
+  <img src="Regions.png" width="90%">
 </p>
 
 ---
