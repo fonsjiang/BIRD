@@ -108,7 +108,6 @@ Feel free to open an issue or discussion if you have questions. We are excited t
 
 ## 🌟 Acknowledgments
 
-Thanks to all collaborators and participants who contributed to EEG data collection and system development. We also thank the reviewers for their insightful feedback.
-
+Thanks to all collaborators and participants who contributed to EEG data collection and system development. This work was supported by the Engineering and Physical Sciences Research Council (EPSRC) of UK Research and Innovation (UKRI) through the Doctoral Training Partnerships (DTP).
 ---
 
