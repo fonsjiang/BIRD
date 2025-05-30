@@ -56,7 +56,7 @@ If you use this repository or datasets, please cite:
 ```bibtex
 @article{jiang2024bird,
   title={BIRD: Brain-Initiated Person Re-identification},
-  author={Jiang, Fanzhi and Yang, Su and Liu, Liwen and Zhang, Jiaxiang and Xie, Xianghua},
+  author={Jiang, Fanzhi and Yang, Su and Zhang, Jiaxiang and Xie, Xianghua},
   journal={arXiv preprint arXiv:2408.00096},
   year={2025}
 }
