@@ -98,9 +98,9 @@ If you use this repository or datasets, please cite:
 
 ## 📢 Stay Updated
 
-* ✨ [Project Page](https://github.com/EEG-FGBIO/BIRD)
-* 📲 [Twitter Updates](https://twitter.com/EEG_FGBIO)
-* 🌐 [Lab Website](https://www.swansea.ac.uk/compsci/)
+* ✨ [Project Page](https://github.com/fonsjiang/BIRD/)
+* 📲 [Twitter Updates](https://twitter.com/BIRD/)
+* 🌐 [Lab Website](http://csvision.swan.ac.uk)
 
 Feel free to open an issue or discussion if you have questions. We are excited to share more soon!
 
@@ -109,5 +109,6 @@ Feel free to open an issue or discussion if you have questions. We are excited t
 ## 🌟 Acknowledgments
 
 Thanks to all collaborators and participants who contributed to EEG data collection and system development. This work was supported by the Engineering and Physical Sciences Research Council (EPSRC) of UK Research and Innovation (UKRI) through the Doctoral Training Partnerships (DTP).
+
 ---
 
