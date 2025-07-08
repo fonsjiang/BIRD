@@ -1,7 +1,7 @@
 # 🧠 BIRD: Brain-Initiated Person Re-identification
 
 <p align="center">
-  <a href="https://arxiv.org/abs/2408.00096"> <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.00096-b31b1b"> </a>
+  <a href="https://arxiv.org/abs/2418.00096"> <img alt="arXiv" src="https://img.shields.io/badge/arXiv-2408.00096-b31b1b"> </a>
   <a href="https://www.apache.org/licenses/LICENSE-2.0"> <img alt="License" src="https://img.shields.io/badge/License-Apache%202.0-blue.svg"> </a>
   <a href="https://github.com/EEG-FGBIO/BIRD/issues"> <img alt="Issues" src="https://img.shields.io/github/issues/EEG-FGBIO/BIRD"> </a>
   <a href="https://github.com/EEG-FGBIO/BIRD/stargazers"> <img alt="Stars" src="https://img.shields.io/github/stars/EEG-FGBIO/BIRD?style=social"> </a>
@@ -21,7 +21,7 @@
   <img src="BIRD.png" width="90%">
 </p>
 
-> ✨ Our [preprint paper](https://arxiv.org/abs/2408.00096) demonstrates for the first time that brain signals can decode fine-grained identity information, opening a novel direction for **neural decoding and person Re-ID**.
+> ✨ Our [preprint paper](https://arxiv.org/abs/2408.00196) demonstrates for the first time that brain signals can decode fine-grained identity information, opening a novel direction for **neural decoding and person Re-ID**.
 
 ---
 
@@ -54,10 +54,10 @@ We are preparing to **release** the following components:
 If you use this repository or datasets, please cite:
 
 ```bibtex
-@article{jiang2024bird,
+@article{2024bird,
   title={BIRD: Brain-Initiated Person Re-identification},
-  author={Jiang, Fanzhi and Yang, Su and Zhang, Jiaxiang and Xie, Xianghua},
-  journal={arXiv preprint arXiv:2408.00096},
+  author={Anonymous submission},
+  journal={arXiv preprint arXiv:2408.00296},
   year={2025}
 }
 ```
@@ -100,7 +100,7 @@ If you use this repository or datasets, please cite:
 
 * ✨ [Project Page](https://github.com/fonsjiang/BIRD/)
 * 📲 [Twitter Updates](https://twitter.com/BIRD/)
-* 🌐 [Lab Website](http://csvision.swan.ac.uk)
+* 🌐 [Lab Website](http://xxxxx.ac.uk)
 
 Feel free to open an issue or discussion if you have questions. We are excited to share more soon!
 
